@@ -1,2 +1,2 @@
 # go-interfaces
-Interfaces declariation example
+Interfaces declaration example
